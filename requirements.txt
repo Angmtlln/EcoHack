@@ -1,0 +1,8 @@
+numpy
+rasterio
+matplotlib
+lightgbm
+xgboost
+scikit-learn
+joblib
+jupyter
